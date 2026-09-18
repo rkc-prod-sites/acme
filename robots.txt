@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.acmefiji.com/sitemap.xml
+Sitemap: https://acmefiji.com/sitemap.xml
