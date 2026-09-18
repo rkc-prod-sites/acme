@@ -1,0 +1,11 @@
+# Local scratch / source files not used by the site
+New folder/
+/logo.png
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Node (if ever used for local tooling)
+node_modules/
+package-lock.json
