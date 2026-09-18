@@ -5,6 +5,9 @@ New folder/
 # Local dev-preview tooling (not used by the deployed site)
 .claude/
 
+# Project notes, not part of the deployed site
+/README.md
+
 # OS junk
 Thumbs.db
 .DS_Store
