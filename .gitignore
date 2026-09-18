@@ -2,6 +2,9 @@
 New folder/
 /logo.png
 
+# Local dev-preview tooling (not used by the deployed site)
+.claude/
+
 # OS junk
 Thumbs.db
 .DS_Store
